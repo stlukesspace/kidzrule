@@ -1,0 +1,29 @@
+
+body{
+  background-color: orange;
+}
+.boxed {
+  border: 1px solid green ;
+}
+h1{
+  color:blue;
+}
+
+h2{
+  color:yellow;
+}
+
+div{
+  background-color: black;
+}
+
+p{
+  color:blue;
+}
+
+a{
+  color:green;
+}
+a:hover{
+  color:red;
+}

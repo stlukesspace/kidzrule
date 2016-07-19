@@ -1,0 +1,20 @@
+
+body{
+  background-color: green;
+}
+.boxed {
+  border: 1px solid green ;
+}
+div{
+  background-color:orange;
+  font-weight: bold;
+  font-style: italic;
+}
+
+p{
+  color:blue;
+}
+
+a{
+  font-size: 20px;
+}
