@@ -1,0 +1,10 @@
+{
+    "type": "ftp",
+    "host": "ftp.stlukes.space",
+    "username": "stlukesspace",
+    "password": "",
+    "promptForPass": true,
+    "port": 21,
+    "remotePath": "",
+    "uploadOnSave": false
+}
