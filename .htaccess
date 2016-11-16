@@ -1,0 +1,32 @@
+# Begin hotlink protection #
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http://stlukes.space/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.stlukes.space/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://stlukesspace.ipage.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.stlukesspace.ipage.com/.*$ [NC]
+RewriteRule .(gif|jpg|png)$ - [F]
+# End hotlink protection #
+
+
+# Begin cache control #
+ExpiresActive on
+<FilesMatch "\.(css|js)$">
+FileETag MTime Size
+ExpiresDefault "now plus 240 minutes"
+</FilesMatch>
+
+ExpiresDefault "now plus 60 minutes"
+ExpiresByType text/html "now plus 60 minutes"
+<FilesMatch "\.(bmp|png|ico|gff|htm|html|jpg|jpeg|gif|gcf)$">
+FileETag MTime Size
+ExpiresDefault "now plus 60 minutes"
+</FilesMatch>
+
+
+# End cache control #
+DirectoryIndex index.htm
+
+
+ErrorDocument 404 "404 page not found"
+
+
