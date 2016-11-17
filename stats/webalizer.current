@@ -1,0 +1,339 @@
+# Webalizer V2.23-08 Incremental Data - 11/15/2016 19:18:07
+2016 11 15 19 18 7
+335 185 43 15 21 7 1430687 184 57 0
+2 2 32 1 15
+16 8 12602 4 13 4
+7 5 9386 3 4 3
+6 3 2271 3 4 3
+12 5 5324 5 9 5
+8 3 2808 5 5 3
+5 3 2253 3 4 3
+7 4 3511 4 6 4
+44 30 409657 5 18 5
+28 21 137128 6 16 5
+12 9 6543 2 8 2
+78 30 391573 3 17 4
+34 28 394800 4 17 4
+21 16 23473 4 15 3
+43 10 14940 7 39 7
+14 10 14418 2 9 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+1 1 739 1
+17 7 6856 15
+88 68 184428 61
+4 1 1294 2
+4 2 1514 2
+0 0 0 0
+21 9 133497 4
+38 8 127872 4
+12 6 125429 3
+2 1 3097 1
+6 1 2332 4
+8 7 5347 7
+7 6 9055 6
+24 19 386120 9
+11 5 10349 9
+18 7 11026 13
+51 28 407141 25
+12 2 1658 10
+4 2 3854 2
+1 1 3079 1
+0 0 0 0
+1 1 3079 1
+5 3 2921 4
+0
+0
+0
+185
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+142
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+# -urls- 
+/sample.htm
+0 1 0 1101 1 1
+/playpen/sally/test.css
+0 12 0 3420 0 0
+/notes/gettingstarted.htm
+0 1 0 1190 0 0
+/images/cat.jpeg
+1 12 0 79260 0 0
+/playpen/sally/sample.htm
+0 21 0 22470 0 1
+/notes/packages.htm
+0 1 0 1179 1 0
+/Sample.htm
+0 1 0 1101 0 0
+/playpen/tom/monster.jpg
+1 10 0 1159230 0 0
+/help.htm
+0 19 0 17126 0 2
+/playpen/tom/sample.htm
+0 12 0 4104 0 0
+/playpen/sally/cat.jpeg
+1 5 0 33025 0 0
+/playpen/charlie/
+0 5 0 14180 1 0
+/
+0 53 0 65111 49 4
+/css/main.css
+0 22 0 17832 0 0
+/playpen/sally/sample2.htm
+0 10 0 3650 0 4
+# End Of Table - urls
+# -sites- (monthly)
+195.242.80.96
+0 1 1 739 1 1477966910
+/
+54.159.7.202
+0 6 1 2332 1 1478604092
+-
+128.204.4.231
+0 6 0 108 1 1479142976
+-
+217.118.91.85
+0 6 0 108 1 1479147160
+-
+50.117.89.222
+0 1 1 739 1 1478474862
+/
+69.175.67.58
+0 42 33 23233 5 1478920756
+/playpen/sally/sample2.htm
+64.79.100.50
+0 2 1 757 1 1478024704
+/
+40.77.167.92
+0 2 1 1258 1 1478318970
+-
+94.194.215.26
+0 18 14 261123 1 1478962643
+/help.htm
+184.154.139.23
+0 42 30 36234 6 1479180537
+/playpen/sally/sample2.htm
+66.85.140.5
+0 1 1 739 1 1478535156
+/
+207.46.13.238
+0 1 0 18 0 0
+-
+54.81.116.72
+0 1 1 739 1 1478230037
+/
+54.160.224.60
+0 1 1 739 1 1478222241
+/
+69.58.178.56
+0 7 6 9055 1 1479044662
+/playpen/sally/sample2.htm
+64.79.100.20
+0 2 1 757 1 1478411405
+/
+91.217.63.100
+0 6 0 108 1 1479146084
+-
+184.154.139.49
+0 2 1 757 1 1477968492
+-
+173.255.113.60
+0 4 2 4021 2 1479237487
+/
+64.79.100.41
+0 2 1 757 1 1478202414
+/
+81.98.231.57
+0 11 10 249976 2 1478920139
+/help.htm
+95.213.184.35
+0 1 1 906 1 1478695320
+/
+64.79.100.17
+0 2 1 757 1 1478102969
+/
+157.55.39.4
+0 3 1 911 0 0
+-
+64.246.165.210
+0 2 1 757 1 1478593522
+/
+178.185.18.190
+0 6 0 108 1 1479140738
+-
+91.231.91.59
+0 67 21 385284 3 1478858098
+/playpen/tom/sample.htm
+194.28.176.131
+0 6 0 108 1 1479148275
+-
+174.129.83.56
+0 2 1 1258 1 1478562936
+-
+193.171.202.150
+0 1 1 3079 1 1478988692
+/
+69.175.22.218
+0 4 2 1514 2 1478573455
+-
+40.77.167.97
+0 1 0 18 0 0
+-
+151.229.52.38
+0 46 34 423275 3 1478625779
+/
+54.163.164.43
+0 6 1 2332 1 1478226950
+-
+207.46.13.37
+0 2 1 924 1 1478714103
+/
+104.155.182.234
+0 2 1 757 1 1478160717
+/
+40.77.167.69
+0 1 1 3079 1 1479032018
+/
+64.79.100.29
+0 7 6 4441 1 1478695570
+/playpen/sally/sample.htm
+64.79.100.37
+0 4 2 1514 2 1478581770
+/
+64.79.100.34
+0 4 2 1514 2 1478371322
+/
+184.154.36.163
+0 2 1 757 1 1478487402
+-
+69.144.230.170
+0 1 1 3079 1 1479154617
+/
+207.46.13.227
+0 1 0 18 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+184.154.139.23
+0 12 9 11321 1 1479180537
+/playpen/sally/sample2.htm
+173.255.113.60
+0 2 1 3097 1 1479237487
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://whois.domaintools.com/stlukes.space
+1 1
+http://stlukes.space/playpen/charlie/index.html
+1 2
+http://www.google.com/url
+1 71
+http://stlukes.space/administrator/
+1 5
+http://www.stlukes.space/playpen/sally/sample2.htm
+1 1
+http://www.stlukes.space/playpen/sally/sample.htm
+1 1
+http://stlukes.space/sample.htm
+1 2
+http://www.stlukes.space/./playpen/tom/sample.htm
+1 1
+http://stlukes.space/help.htm
+1 5
+http://stlukes.space/Sample.htm
+1 1
+- (Direct Request)
+0 127
+http://www.stlukes.space/./playpen/sally/sample.htm
+1 1
+http://stlukes.space/playpen/tom/sample.htm
+1 14
+http://www.stlukes.space
+1 9
+Google
+2 71
+http://stlukes.space/notes/packages.htm
+1 1
+http://ya.ru/
+0 1
+http://stlukes.space/playpen/sally/sample.htm
+1 14
+http://www.stlukes.space/robots.txt
+1 9
+http://stlukes.space/wp-login.php
+1 5
+http://www.stlukes.space/help.htm
+1 1
+http://stlukes.space/
+1 63
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 224
+Mechanize/2.7.2 Ruby/2.1.3p242 (http://github.com/sparklemotion/mechanize/)
+0 3
+Netscape 6 compatible
+2 224
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 21
+MSIE 8.0
+0 1
+Mechanize/2.7.5 Ruby/2.1.3p242 (http://github.com/sparklemotion/mechanize/)
+0 2
+MSIE 9.0
+0 71
+bingbot/2.0
+0 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
